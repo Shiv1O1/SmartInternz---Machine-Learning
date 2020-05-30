@@ -1,0 +1,32 @@
+Project Summary :
+	In this project we will be predicting life expectancy on a human being based on several factors such as Regional Variance, Sex Differences , Mental Illnesses, Physica; Illnesses, Education and many more other factors. We will be using machine learning models to predict life expectancy.
+
+Project Requirements : 
+  Laptop/PC with internet connection.
+  Dataset
+
+Functional Requirements :
+  Data Cleaning
+  Jupyter Notebook on IBM Watson
+
+Technical Requirements :
+  Python 3
+  Machine Learning
+
+Software Requirements :
+  IBM Cloud
+  IBM Watson
+  IBM Watson Studio
+
+Project Deliverables :
+	After completing this project we will be able to understand life expectancy in different parts of worlds and able to improve the life expectancy by using better health infrastructure.
+
+Project Team :
+	Shivam Yadav
+
+Project Schedule :
+  Learning the IBM Platform till 08/06/2020.
+  Start the project from 10/06/2020.
+  Completing the code for project till 18/06/2020.
+  Debugging the code till 21/06/2020.
+  Submitting the final documents and project code till 24/06/2020.
